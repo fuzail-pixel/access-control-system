@@ -1,0 +1,17 @@
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\AccessControlApplication.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\dto\RegisterRequest.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\util\JwtUtil.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\service\TaskService.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\entity\Role.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\config\SecurityConfig.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\repository\UserRepository.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\repository\TaskRepository.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\security\JwtAuthenticationFilter.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\service\AuthService.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\controller\AuthController.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\entity\User.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\dto\LoginRequest.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\entity\Task.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\exception\GlobalExceptionHandler.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\controller\TaskController.java
+C:\Users\qazif\Desktop\python\boot\Access-control\src\main\java\com\example\accesscontrol\dto\AuthResponse.java
