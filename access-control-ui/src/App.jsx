@@ -30,4 +30,3 @@ const App = () => (
 );
 
 export default App;
-// filepath: src/App.jsx

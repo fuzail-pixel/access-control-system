@@ -29,4 +29,3 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
-// filepath: src/pages/Dashboard.jsx

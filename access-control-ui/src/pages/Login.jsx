@@ -51,4 +51,3 @@ const Login = () => {
 };
 
 export default Login;
-// filepath: src/pages/Login.jsx

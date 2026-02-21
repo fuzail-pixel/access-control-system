@@ -57,4 +57,3 @@ const Register = () => {
 };
 
 export default Register;
-// filepath: src/pages/Register.jsx
