@@ -205,12 +205,5 @@ npm test
 
 ---
 
-## Author
 
-**Fuzail Rehman**
 
----
-
-## License
-
-This project is provided for educational and evaluation purposes.
