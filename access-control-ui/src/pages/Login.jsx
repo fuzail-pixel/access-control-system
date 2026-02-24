@@ -21,6 +21,10 @@ const Login = () => {
         }
     };
 
+    const handleRegister = () => {
+        navigate('/register');
+    };
+
     return (
         <div>
             <h2>Login</h2>
@@ -44,7 +48,12 @@ const Login = () => {
                         required
                     />
                 </div>
-                <button type="submit">Login</button>
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: '16px' }}>
+                    <button type="submit" style={{ width: '120px', marginBottom: '8px' }}>Login</button>
+                    <button type="button" onClick={handleRegister} style={{ width: '120px' }}>
+                        Sign Up / Register
+                    </button>
+                </div>
             </form>
         </div>
     );

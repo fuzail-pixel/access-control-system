@@ -20,6 +20,10 @@ const Register = () => {
         }
     };
 
+    const handleLogin = () => {
+        navigate('/login');
+    };
+
     return (
         <div>
             <h2>Register</h2>
@@ -50,7 +54,15 @@ const Register = () => {
                         <option value="ADMIN">Admin</option>
                     </select>
                 </div>
-                <button type="submit">Register</button>
+                <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: '16px' }}>
+                    <button type="submit" style={{ width: '120px', marginBottom: '8px' }}>Register</button>
+                    <span>
+                        Already got an account?{' '}
+                        <button type="button" onClick={handleLogin} style={{ background: 'none', border: 'none', color: 'blue', textDecoration: 'underline', cursor: 'pointer', padding: 0 }}>
+                            Login
+                        </button>
+                    </span>
+                </div>
             </form>
         </div>
     );

@@ -2,7 +2,7 @@ import axios from 'axios';
 import { getToken } from '../auth/auth';
 
 const instance = axios.create({
-    baseURL: 'http://localhost:8080', // Change if your backend runs elsewhere
+    baseURL: 'http://localhost:8080', // the backend port
     headers: {
         'Content-Type': 'application/json',
     },
